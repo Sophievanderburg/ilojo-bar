@@ -1,4 +1,6 @@
 <%- include('partials/header.ejs') %>
+
+<main>
     
     <a href="/timeline">< Back</a>
     <h1><%- ctx.prismicH.asText(storyData.title) %></h1>
@@ -11,5 +13,7 @@
     <img src="<%- storyData.image5.url %>" alt="" width="100%">
     <img src="<%- storyData.image6.url %>" alt="" width="100%">
     <img src="<%- storyData.image7.url %>" alt="" width="100%">
+
+</main>
 
 <%- include('partials/foot.ejs') %>

@@ -1,0 +1,7 @@
+@import url(general.css);
+
+main img:nth-of-type(n+2) {
+    width:20%;
+    height:auto;
+}
+

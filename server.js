@@ -8,7 +8,7 @@ import * as prismicH from '@prismicio/helpers'
 import { router } from './router/router.js'
 
 const app = express()
-const port =  2020
+const port =  process.env.PORT || 2020
 
 
 // Link the templating engine to the express app

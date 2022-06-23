@@ -6,9 +6,9 @@ const CORE_ASSETS = [
   '/styles/offline.css',
   '/styles/sendStory.css',
   '/styles/story.css',
-  '/styles/style.css',
+  '/styles/index.css',
   '/styles/timeline.css',
-  '/images/pogin5video.gif',
+  '/images/3d-ilojo.gif',
 ]
 
 self.addEventListener('install', (event) =>{
@@ -49,6 +49,7 @@ self.addEventListener('fetch', (event) => {
     )
     }
 });
+
 
 // --------------------------------------------------------------------------------------------------------------------
 function fetchAndCache(request, cacheName) {

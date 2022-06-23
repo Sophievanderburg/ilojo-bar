@@ -22,13 +22,20 @@ Ilojo Bar or Casa do Fernandez was an iconic national monument in Lagos, Nigeria
 ## Prototype
 ### Interaction
 **Home**
-❗
+
+On the homepage you can see the 3d model of the Ilojo bar! It spins around so you can see everything of the Ilojo bar. When you click on the button "go down in history", you can learn more about the Ilojo bar and all the stories behind it. 
+
 **View the paintings**
-❗
+
+When you clicked on the button "go down in history" you will end up in the museum where the history about the Ilojo bar is laid out for you. You can view the paintings and when you want to know what's the story behind the painting, you can click on "read the story". At the end of the gallery you will see a bookstand with "write your own story" and a arrow pointing to the bookstand. When you click on the bookstand, you will end up in the book. You can write your own story about the Ilojo bar here!
+
 **Read the stories**
-❗
+
+This is the page where you can read the whole story behind the painting you clicked on. You can scroll down and read the story and take a look at all the photos in between the paragraphs.
+
 **Send a story**
-❗
+
+At this page you can send your own story about the Ilojo bar! You can write your story and add some photo's. This will be send to the email from Legacy so they can be check them out. When the story is approved, they can add them to the timeline. 
 
 
 ## Practical information

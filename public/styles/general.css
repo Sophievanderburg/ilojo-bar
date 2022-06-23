@@ -4,6 +4,16 @@
     --brown-color: #544338;
 }
 
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    color: var(--brown-color);
+}
+
+body{
+    background-color: var(--beige-color);
+}
+
 h1, h2, h3{
     font-family: scotch-display, serif;
     font-weight: 400;
@@ -15,16 +25,6 @@ p, button, a, input, textarea, placeholder, ::before, ::after, ::file-selector-b
     font-weight: 400;
     font-style: normal;
     font-size: 1.1em;
-}
-
-*{
-    margin: 0; padding: 0;
-    box-sizing: border-box;
-    color: var(--brown-color);
-}
-
-body{
-    background-color: var(--beige-color);
 }
 
 header{

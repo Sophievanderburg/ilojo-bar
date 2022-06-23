@@ -1,8 +1,6 @@
-import express from 'express'
-
 import { client } from '../../config/prismicConfig.js'  
 
-export const renderStory =  async (req, res) => {
+export const renderStory = async (req, res) => {
     let uid = req.params.id
     let story = await client.getByUID('story', uid)
     let storyData = story.data

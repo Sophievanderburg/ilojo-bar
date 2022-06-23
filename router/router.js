@@ -1,14 +1,10 @@
 import express from 'express'
-import multer from 'multer'
 
 import { renderTimeline } from './routes/timelineRoute.js'
 import { renderStory } from './routes/storyRoute.js'
 import { renderHome } from './routes/homeRoute.js'
-
 import { renderSendStory  } from './routes/sendStoryRoute.js'
-
 import { postSendStory, upload } from './routes/postSendStoryRoute.js'
-
 import { renderOffline } from './routes/offlineRoute.js'
 import { renderLoadingstate } from './routes/loadingstateroute.js'
 

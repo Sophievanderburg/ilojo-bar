@@ -1,5 +1,5 @@
-export const renderHome = async (req, res) =>{
+export const renderHome = (req, res) =>{
     res.render('index',{
-        css : "/styles/style.css"
+        css : "/styles/index.css"
     })
 }

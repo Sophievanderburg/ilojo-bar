@@ -19,8 +19,8 @@ Ilojo Bar or Casa do Fernandez was an iconic national monument in Lagos, Nigeria
 > As a resident of Lagos, Nigerian, member of the diaspora or interested citizen of the world, I want to be able to get a virtual impression of the building so that I can see what it once was like. 
 
 
-## Prototype
-### :iphone: Interaction
+## :iphone: Prototype
+### Interaction
 **Home**
 
 On the homepage you can see the 3d model of the Ilojo bar! It spins around so you can see everything of the Ilojo bar. When you click on the button "go down in history", you can learn more about the Ilojo bar and all the stories behind it. 

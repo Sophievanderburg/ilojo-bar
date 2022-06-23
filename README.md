@@ -49,7 +49,17 @@ We use Prismic to retrieve the stories and images from. The images are linked to
 For more information how to use Prismic click [here](https://prismic.io/docs/technologies/express-overview_)
 
 ### Activity diagram
-❗
+
+<img width="870" alt="Screenshot 2022-06-23 at 14 36 21" src="https://user-images.githubusercontent.com/70900763/175299907-c2e60419-7442-44c0-b0a1-ce5c66d7947b.png">
+
+### Service worker
+The service worker checks whether the user has an internet connection. When a request is made, the service worker stores the 'CORE_ASSETS' in the browser's cache memory 'v3'. The CORE_ASSETS contains the offline page and the styling file. This allows the service worker to still show the offline page with associated styling when there is no internet connection. 
+
+If there is internet connection, the service worker caches the rendered content in 'html cache'. If the user later returns to de SPA without internet, he can see still the pages he has already visited.
+
+<img width="783" alt="Screenshot 2022-06-23 at 14 31 03" src="https://user-images.githubusercontent.com/70900763/175299015-e70a6101-c603-426c-80e5-f23536a9cc8e.png">
+
+
 ### Used packages
 - [EJS](https://www.npmjs.com/package/ejs)
 - [express](https://www.npmjs.com/package/express)

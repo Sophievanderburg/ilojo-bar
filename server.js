@@ -1,7 +1,9 @@
 import express from 'express'
-import multer from 'multer'
+import compression from 'compression'
+import minify from 'express-minify'
+
+
 import bodyParser from 'body-parser'
-import * as dotenv from "dotenv"
 import 'dotenv/config'
 
 import * as prismicH from '@prismicio/helpers'
@@ -15,8 +17,9 @@ const port =  process.env.PORT || 2020
 app.set('view engine', 'ejs')
 app.set('views', './views')
 
+app.use(compression())
+app.use(minify())
 app.use(bodyParser.urlencoded({ extended: true }));
-
 app.use((req, res, next) => {
   res.locals.ctx = {
     prismicH,

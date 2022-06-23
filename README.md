@@ -38,7 +38,7 @@ This is the page where you can read the whole story behind the painting you clic
 At this page you can send your own story about the Ilojo bar! You can write your story and add some photo's. This will be send to the email from Legacy so they can be check them out. When the story is approved, they can add them to the timeline. 
 
 
-## :computer: Practical information
+## :page_facing_up: Practical information
 ### Prismic
 We use Prismic as a headless CMS. A headless CMS is a content management system (CMS), only used for back-end purposes, built from the ground up to make content accessible and maintainable. Prismic is supported for lots of frameworks as Next.js & Vue.js, but is also be used with an express server or even just vanilla javascript. In our case, we use it in combination with an express server.
 
@@ -61,7 +61,7 @@ For more information how to use Prismic click [here](https://prismic.io/docs/tec
 - [node-dev](https://www.npmjs.com/package/node-dev)
 - [multer](https://www.npmjs.com/package/multer)
 
-## How to install/use the code
+## :computer: How to install/use the code
 Install and use this repo in a view simple steps:
 1. Clone this repo with git clone ``https://github.com/Sophievanderburg/ilojo-bar.git``
 2. Install all the used packages with ``npm install``

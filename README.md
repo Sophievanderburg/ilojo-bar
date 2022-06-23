@@ -1,5 +1,5 @@
 # Ilojo Bar
-<img width="200" alt="Screenshot 2022-06-23 at 13 43 24" src="https://user-images.githubusercontent.com/70900763/175290940-e4c28ef1-fd7b-4638-b2da-e1a6bd833ad3.png"> <img width="200" alt="Screenshot 2022-06-23 at 13 53 03" src="https://user-images.githubusercontent.com/70900763/175292442-ab9354b8-695c-40f6-a2bd-4270daaafd4b.png"> <img width="200" alt="Screenshot 2022-06-23 at 13 53 14" src="https://user-images.githubusercontent.com/70900763/175292468-020e6d07-eac2-4d3d-8f31-df6c16864acc.png"> <img width="190" alt="Screenshot 2022-06-23 at 13 52 16" src="https://user-images.githubusercontent.com/70900763/175292344-a49df2b2-8b16-4ff5-8a69-0d35dc1bcba5.png">
+<img width="200" alt="Screenshot 2022-06-23 at 13 43 24" src="https://user-images.githubusercontent.com/70900763/175290940-e4c28ef1-fd7b-4638-b2da-e1a6bd833ad3.png"> <img width="200" alt="Screenshot 2022-06-23 at 13 53 03" src="https://user-images.githubusercontent.com/70900763/175292442-ab9354b8-695c-40f6-a2bd-4270daaafd4b.png"> <img width="190" alt="Screenshot 2022-06-23 at 13 52 16" src="https://user-images.githubusercontent.com/70900763/175292344-a49df2b2-8b16-4ff5-8a69-0d35dc1bcba5.png">
 
 
 <img width="2000" alt="Screenshot 2022-06-23 at 13 50 30" src="https://user-images.githubusercontent.com/70900763/175292064-d842399c-8445-47cf-9c97-8c453645908d.png">

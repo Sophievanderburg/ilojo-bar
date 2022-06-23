@@ -1,3 +1,3 @@
-export const renderOffline = async (req, res) => {
+export const renderOffline = (req, res) => {
     res.render('offline')
   }

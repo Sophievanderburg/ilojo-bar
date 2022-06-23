@@ -10,7 +10,7 @@ const {
   } = process.env
   dotenv.config()
 
-export const postSendStory = async (req, res, next) =>{   
+export const postSendStory = (req, res, next) =>{   
   const images = req.files
   const attachments = images.map((image)=>{
     return { filename: image.originalname, path: image.destination + image.filename };

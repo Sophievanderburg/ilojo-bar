@@ -1,4 +1,4 @@
-export const renderLoadingstate = async (req, res) =>{
+export const renderLoadingstate = (req, res) =>{
     res.render('loadingstate',{
         css : "/styles/loading.css"
     })

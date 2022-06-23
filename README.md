@@ -1,10 +1,10 @@
-# Ilojo Bar
+# :church: Ilojo Bar
 <img width="200" alt="Screenshot 2022-06-23 at 13 43 24" src="https://user-images.githubusercontent.com/70900763/175290940-e4c28ef1-fd7b-4638-b2da-e1a6bd833ad3.png"> <img width="200" alt="Screenshot 2022-06-23 at 13 53 03" src="https://user-images.githubusercontent.com/70900763/175292442-ab9354b8-695c-40f6-a2bd-4270daaafd4b.png"> <img width="190" alt="Screenshot 2022-06-23 at 13 52 16" src="https://user-images.githubusercontent.com/70900763/175292344-a49df2b2-8b16-4ff5-8a69-0d35dc1bcba5.png">
 
 
 <img width="2000" alt="Screenshot 2022-06-23 at 13 50 30" src="https://user-images.githubusercontent.com/70900763/175292064-d842399c-8445-47cf-9c97-8c453645908d.png">
 
-## About the project
+## :black_nib: About the project
 ### The problem
 Ilojo Bar or Casa do Fernandez was an iconic national monument in Lagos, Nigeria, which was illegally demolished in 2016. Ilojo Bar was designed and built by Africans returning from slavery in Brazil in the 1800s. Legacy would like an English-language website that becomes a virtual monument of this special building and the many stories surrounding it.
 
@@ -20,7 +20,7 @@ Ilojo Bar or Casa do Fernandez was an iconic national monument in Lagos, Nigeria
 
 
 ## Prototype
-### Interaction
+### :iphone: Interaction
 **Home**
 
 On the homepage you can see the 3d model of the Ilojo bar! It spins around so you can see everything of the Ilojo bar. When you click on the button "go down in history", you can learn more about the Ilojo bar and all the stories behind it. 
@@ -38,7 +38,7 @@ This is the page where you can read the whole story behind the painting you clic
 At this page you can send your own story about the Ilojo bar! You can write your story and add some photo's. This will be send to the email from Legacy so they can be check them out. When the story is approved, they can add them to the timeline. 
 
 
-## Practical information
+## :computer: Practical information
 ### Prismic
 We use Prismic as a headless CMS. A headless CMS is a content management system (CMS), only used for back-end purposes, built from the ground up to make content accessible and maintainable. Prismic is supported for lots of frameworks as Next.js & Vue.js, but is also be used with an express server or even just vanilla javascript. In our case, we use it in combination with an express server.
 
